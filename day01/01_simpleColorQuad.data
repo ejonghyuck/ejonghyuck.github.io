@@ -1,0 +1,52 @@
+precision highp float;
+
+uniform float iGlobalTime;
+uniform vec2 iResolution;
+
+void main()
+{
+    vec2 uv = gl_FragCoord.xy / iResolution.xy;
+    gl_FragColor = vec4(uv, 0.5 + sin(iGlobalTime) * 0.5, 1.0);
+}
+attribute vec4 position;
+
+uniform mat4 modelViewProjectionMatrix;
+
+void main(){
+	gl_Position = modelViewProjectionMatrix * position;
+}#version 120
+
+uniform float iGlobalTime;
+uniform vec2 iResolution;
+
+void main()
+{
+    vec2 uv = gl_FragCoord.xy / iResolution.xy;
+    gl_FragColor = vec4(uv, 0.5 + sin(iGlobalTime) * 0.5, 1.0);
+}
+#version 120
+
+void main()
+{
+	gl_Position = ftransform();
+}#version 150
+
+uniform float iGlobalTime;
+uniform vec2 iResolution;
+
+out vec4 outputColor;
+
+void main()
+{
+    vec2 uv = gl_FragCoord.xy / iResolution.xy;
+    outputColor = vec4(uv, 0.5 + sin(iGlobalTime) * 0.5, 1.0);
+}
+#version 150
+
+uniform mat4 modelViewProjectionMatrix;
+
+in vec4 position;
+
+void main(){
+	gl_Position = modelViewProjectionMatrix * position;
+}
