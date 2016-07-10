@@ -11,7 +11,7 @@ vec3 calcSine(vec2 uv, float speed,
               float frequency, float amplitude, float shift, float offset,
               vec3 color, float width, float exponent, bool dir)
 {
-    float angle = iGlobalTime * speed * frequency + (shift + uv.x) * 5.2831852;
+    float angle = iGlobalTime * speed * frequency * -1.0 + (shift + uv.x) * 3.0;
     
     float y = sin(angle) * amplitude + offset;
     float clampY = clamp(0.0, y, y);
@@ -69,7 +69,7 @@ vec3 calcSine(vec2 uv, float speed,
               float frequency, float amplitude, float shift, float offset,
               vec3 color, float width, float exponent, bool dir)
 {
-    float angle = iGlobalTime * speed * frequency + (shift + uv.x) * 5.2831852;
+    float angle = iGlobalTime * speed * frequency * -1.0 + (shift + uv.x) * 3.0;
     
     float y = sin(angle) * amplitude + offset;
     float clampY = clamp(0.0, y, y);
