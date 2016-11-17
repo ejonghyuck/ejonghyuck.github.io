@@ -49,7 +49,7 @@ title: About me
         <ul>
             <li>Unity : NGUI, Behavior Designer, Best HTTP, DOTween, UniRx</li>
             <li>front-end : React, Angular.js</li>
-            <li>back-end : Node.js, Express.js</li>
+            <li>back-end : Node.js, Express.js, forever, pm2</li>
             <li>Database : MySQL, Redis, MongoDB, Firebase Storage, Azure Storage</li>
         </ul>
         <h4>Softwares / Tools:</h4>
