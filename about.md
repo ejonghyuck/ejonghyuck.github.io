@@ -13,8 +13,8 @@ title: About me
             <h1>About me</h1>
         </header>
         <h2 id="content">Jonghyuck Lee</h2>
-        <p>Junior Game Programmer at ArasoPandan</p>
-        <p>Seoul, Republic Of Korea</p>
+        <p>Junior Game Programmer at ArasoPandan
+        Seoul, Republic Of Korea</p>
         <ul class="icons">
             <li><a href="" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
             <li><a href="" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
