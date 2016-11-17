@@ -66,7 +66,7 @@ title: About me
         <h4>PlayCat</h4>
         <p><em>Main client developer, Aug. 2014 ~ Jun. 2015</em></p>
         <ul>
-            <li>Developed various new features to <a href="">Fruits Dragon</a> unity mobile puzzle game project and I did most of development alone.</li>
+            <li>Developed various new features to <a href="">Fruits Dragon</a> unity mobile puzzle game project and I did most of client development alone.</li>
             <li>Native-level development prevented players who using cheats.</li>
         </ul>
     </div>
