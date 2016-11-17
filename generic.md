@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Aliquam
-description: Ipsum dolor sit amet
-image: assets/images/pic01.jpg
+title: Generic
+description: Lorem ipsum dolor est
+image: assets/images/pic11.jpg
+nav-menu: yes
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
