@@ -35,7 +35,10 @@ nav-menu:
 		<header class="major">
 			<h2>Who is EjongHyuck?</h2>
 		</header>
-		<p>EjongHyuck(a.k.a. Makart) is a game developer currently working at Araso Pandan. I am using the Unity game engine best, and I am studying with great interest in Javascript. In addition, I am interested in 3D graphics rendering and I am studying shader, and I am aiming to be a one-person indie game developer.</p>
+		<p>EjongHyuck(a.k.a. Makart) is a game developer currently working at Araso Pandan. Using the Unity game engine best, and studying with great interest in Javascript. Also interested in 3D graphics rendering so studying shader hard.</p>
+		<ul class="actions">
+			<li><a href="about.html" class="button next">More info</a></li>
+		</ul>
 	</div>
 </section>
 
