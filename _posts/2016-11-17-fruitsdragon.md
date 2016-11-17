@@ -7,4 +7,8 @@ image: assets/images/fruitsdragon.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eds03mFc3HE" frameborder="0" allowfullscreen></iframe>
 
-Development period : 2014.08 ~ 2015.06 (Not released)
+* Development period : Aug. 2014 ~ Jun. 2015 (Not released)
+* Part : Client development(main)
+* Client : Unity3D (NGUI)
+* Server : Photon Server
+* DB : MySQL
