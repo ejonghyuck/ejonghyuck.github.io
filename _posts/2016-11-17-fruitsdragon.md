@@ -2,7 +2,7 @@
 layout: post
 title: Fruits Dragon
 description: 1st project at PlayCat
-image: assets/images/fruitsdragon.jpg
+image: assets/images/fruitsdragon.png
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Eds03mFc3HE" frameborder="0" allowfullscreen></iframe>
