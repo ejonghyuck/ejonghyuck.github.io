@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Source contribution
-description: Contributed open source repositories or others.
+description: Contributed open source repositories or others
 image: assets/images/macbook.jpeg
 ---
 
