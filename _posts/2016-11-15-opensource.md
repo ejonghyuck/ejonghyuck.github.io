@@ -2,7 +2,7 @@
 layout: post
 title: Open Source contribution
 description: 
-image: assets/images/macbook.jpg
+image: assets/images/macbook.jpeg
 ---
 
 ## [Kiko-plus](https://github.com/AWEEKJ/Kiko-plus)
