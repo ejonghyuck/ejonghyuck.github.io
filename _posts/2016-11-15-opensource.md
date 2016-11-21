@@ -8,5 +8,6 @@ image: assets/images/macbook.jpeg
 ## [Kiko-plus](https://github.com/AWEEKJ/Kiko-plus)
 * Jekyll theme
 * Web design (html, css, sass, liquid)
-* [Pull request #5](https://github.com/AWEEKJ/Kiko-plus/pull/5) at Github
+* [Pull request #5](https://github.com/AWEEKJ/Kiko-plus/pull/5)
+* [Pull request #6](https://github.com/AWEEKJ/Kiko-plus/pull/6)
 * Used : [my dev blog](https://ejonghyuck.github.io/blog/)
