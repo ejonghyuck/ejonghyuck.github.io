@@ -9,24 +9,26 @@ title: About me
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="assets/images/pic07.jpg" alt="" />
+            <img src="assets/images/sky.jpg" alt="" />
         </span>
         <header class="major">
             <h1>About me</h1>
         </header>
+        <div class="content">
+            <h2 id="content">Jonghyuck Lee</h2>
+            <p>Junior Game Programmer at ArasoPandan<br />Seoul, Republic Of Korea</p>
+            <ul class="icons">
+                <li><a href="" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="" class="icon fa-github"><span class="label">Github</span></a></li>
+            </ul>
+        </div>
     </div>
 </section>
 
 <!-- One -->
 <section id="one">
     <div class="inner">
-        <h2 id="content">Jonghyuck Lee</h2>
-        <p>Junior Game Programmer at ArasoPandan<br />Seoul, Republic Of Korea</p>
-        <ul class="icons">
-            <li><a href="" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-            <li><a href="" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-            <li><a href="" class="icon fa-github"><span class="label">Github</span></a></li>
-        </ul>
         <h2 id="content">Objective</h2>
         <p>I want to be a full-stack game developer, then want to be a one-person indie game developer.</p>
         <h2 id="content">Summary of Qualification</h2>
