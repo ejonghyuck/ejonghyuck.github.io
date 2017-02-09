@@ -3237,6 +3237,10 @@
 				color: #87c5a4;
 			}
 
+			#header.alt.style7 .logo strong {
+				color: rgba(0,0,0,0);
+			}
+
 		body.is-loading #header.alt {
 			opacity: 0;
 		}
@@ -3470,6 +3474,10 @@
 
 		#banner.style6:after {
 			background-color: #87c5a4;
+		}
+
+		#banner.style7:after {
+			background-color: rgba(0,0,0,0);
 		}
 
 		body.is-loading #banner:after {

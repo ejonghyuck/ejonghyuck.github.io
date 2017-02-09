@@ -6,7 +6,7 @@ title: About me
 <!-- Main -->
 <div id="main" class="alt">
 
-<section id="banner" class="style2">
+<section id="banner" class="style7">
     <div class="inner">
         <span class="image">
             <img src="assets/images/sky.jpg" alt="" />
