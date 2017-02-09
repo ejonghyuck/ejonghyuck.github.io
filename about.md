@@ -58,7 +58,7 @@ title: About me
         <p>Mac OS X, Linux(Ubuntu), Windows(7, 10)</p>
         <h2 id="content">Professional Experienced</h2>
         <h4>ArasoPandan</h4>
-        <p><em>Client developer, Sep. 2015 ~ present</em></p>
+        <p><em>Client developer, Sep. 2015 ~ Jan. 2017</em></p>
         <ul>
             <li>Developed various new features to <a href="https://www.youtube.com/embed/hYKUAhHKNIU">Z-Rush</a> unity mobile arcade game project and improved a lot of UI changes including parallax scroll list, transition animatons.</li>
             <li>Developed MvvM(resembling Flux, by facebook) architecture framework for NGUI, and I'm trying to adopt it in development-level.</li>
