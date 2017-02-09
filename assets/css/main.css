@@ -3238,7 +3238,7 @@
 			}
 
 			#header.alt.style7 .logo strong {
-				color: rgba(0,0,0,0);
+				color: rgba(111,195,223,0.2);
 			}
 
 		body.is-loading #header.alt {
@@ -3477,7 +3477,7 @@
 		}
 
 		#banner.style7:after {
-			background-color: rgba(0,0,0,0);
+			background-color: rgba(111,195,223,0.2);
 		}
 
 		body.is-loading #banner:after {
