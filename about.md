@@ -6,12 +6,20 @@ title: About me
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
+<section id="banner" class="style2">
     <div class="inner">
+        <span class="image">
+            <img src="assets/images/pic07.jpg" alt="" />
+        </span>
         <header class="major">
             <h1>About me</h1>
         </header>
+    </div>
+</section>
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
         <h2 id="content">Jonghyuck Lee</h2>
         <p>Junior Game Programmer at ArasoPandan<br />Seoul, Republic Of Korea</p>
         <ul class="icons">
