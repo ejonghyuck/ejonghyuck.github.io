@@ -16,11 +16,10 @@ title: About me
         </header>
         <div class="content">
             <h2 id="content">Jonghyuck Lee</h2>
-            <p>Junior Game Programmer at ArasoPandan<br />Seoul, Republic Of Korea</p>
             <ul class="icons">
-                <li><a href="" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                <li><a href="" class="icon fa-github"><span class="label">Github</span></a></li>
+                <li><a href="{{ site.twitter_url }}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="{{ site.facebook_url }}" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="{{ site.github_url }}" class="icon fa-github"><span class="label">Github</span></a></li>
             </ul>
         </div>
     </div>
