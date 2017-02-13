@@ -32,10 +32,10 @@ title: About me
         <p>I want to be a full-stack game developer, then want to be a one-person indie game developer.</p>
         <h2 id="content">Summary of Qualification</h2>
         <ul>
-            <li>Experienced at unity game engine frameworks such as NGUI, Behavior Designer, DOTween and UniRx(Unity Reactive Extensions).</li>
+            <li>Experienced at unity game engine frameworks such as NGUI, LeanTween and UniRx(Unity Reactive Extensions).</li>
             <li>Both server (node.js) and client (unity) side experienced developing commercial game.</li>
-            <li>Specialist on fast prototyping game, architecture design and UI.</li>
-            <li>Diverse skill set including software development, Linux, 3D graphics rendering, UI/UX Design.</li>
+            <li>Specialist on fast prototyping game, architecture design and assemble UI.</li>
+            <li>Diverse skill set including software development(game, web, mobile) and UI/UX Design.</li>
         </ul>
         <h2 id="content">Languages</h2>
         <ul>
@@ -53,18 +53,23 @@ title: About me
         </ul>
         <h2 id="content">Technical Profile</h2>
         <h4>Programming Languages:</h4>
-        <p>C, C++, C#, Javascript, Swift, Python, Node.js, HTML, Shell, GLSL, HLSL, Shader-Lab</p>
+        <p>C, C++, C#, Javascript, Swift, Node.js(ECMAScript 6), HTML, Shell, Shader-Lab</p>
         <h4>Frameworks:</h4>
         <ul>
-            <li>Unity : NGUI, Behavior Designer, Best HTTP, DOTween, UniRx</li>
-            <li>front-end : React, Angular.js</li>
-            <li>back-end : Node.js, Express.js, forever, pm2</li>
+            <li>Unity : NGUI, Best HTTP, LeanTween, UniRx</li>
+            <li>front-end : React.js, Angular.js, Babel, Webpack</li>
+            <li>back-end : Node.js, Express, forever, pm2</li>
+            <li>cross-patform : Electron</li>
             <li>Database : MySQL, Redis, MongoDB, Firebase Storage, Azure Storage</li>
         </ul>
+        <h4>IDEs:</h4>
+        <p>Visual Studio, XCode, Sublime Text, Visual Studio Code, Webstorm</p>
+        <h4>Version controls:</h4>
+        <p>SVN, Git</p>
         <h4>Softwares / Tools:</h4>
-        <p>SVN, Git, Slack(also api development), Docker, vagrant</p>
+        <p>Slack(also api development), vagrant</p>
         <h4>Operating Systems:</h4>
-        <p>Mac OS X, Linux(Ubuntu), Windows(7, 10)</p>
+        <p>Mac OS X, Linux(Ubuntu 14.04 LTS), Windows(7, 10)</p>
         <h2 id="content">Professional Experienced</h2>
         <h4>ArasoPandan</h4>
         <p><em>Client developer, Sep. 2015 ~ Jan. 2017</em></p>
