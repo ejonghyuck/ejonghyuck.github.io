@@ -58,7 +58,7 @@ title: About me
         <ul>
             <li>Unity : NGUI, Best HTTP, LeanTween, UniRx</li>
             <li>front-end : React.js, Angular.js, Babel, Webpack</li>
-            <li>back-end : Node.js, Express, forever, pm2</li>
+            <li>back-end : Node.js, Express, pm2</li>
             <li>cross-patform : Electron</li>
             <li>Database : MySQL, Redis, MongoDB, Firebase Storage, Azure Storage</li>
         </ul>
@@ -71,6 +71,11 @@ title: About me
         <h4>Operating Systems:</h4>
         <p>Mac OS X, Linux(Ubuntu 14.04 LTS), Windows(7, 10)</p>
         <h2 id="content">Professional Experienced</h2>
+        <h4>Studio Prism</h4>
+        <p><em>Main developer, Mar. 2017 ~ present</em></p>
+        <ul>
+            <li>Developed various new features to Project-J unity mobile rpg game project.</li>
+        </ul>
         <h4>ArasoPandan</h4>
         <p><em>Client developer, Sep. 2015 ~ Jan. 2017</em></p>
         <ul>
